@@ -1,3 +1,6 @@
+# Files saved by the CLI
+output/
+
 # Logs
 logs
 *.log
