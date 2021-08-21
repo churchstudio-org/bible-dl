@@ -31,8 +31,13 @@
   ],
   "license": "MIT",
   "dependencies": {
+    "@types/natural": "^2.1.2",
+    "@types/stopword": "^1.0.1",
     "bible-crawler": "file:../bible-crawler",
-    "gluegun": "latest"
+    "cross-fetch": "^3.1.4",
+    "gluegun": "latest",
+    "natural": "^5.0.4",
+    "stopword": "^1.0.11"
   },
   "devDependencies": {
     "@types/node": "^12.7.11",
